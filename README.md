@@ -1,1 +1,1 @@
-# One page portfolio template
+# One page template
